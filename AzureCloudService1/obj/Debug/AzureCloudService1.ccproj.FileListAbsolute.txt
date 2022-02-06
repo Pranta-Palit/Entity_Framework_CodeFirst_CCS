@@ -294,3 +294,5 @@ F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudSer
 F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\zh-Hant\Microsoft.Data.OData.resources.dll
 F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
 F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\zh-Hant\System.Spatial.resources.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\Westwind.Utilities.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\Westwind.Utilities.xml

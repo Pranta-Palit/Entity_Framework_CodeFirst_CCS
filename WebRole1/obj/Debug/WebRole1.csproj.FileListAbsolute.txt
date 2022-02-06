@@ -150,3 +150,5 @@ F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudSer
 F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\WebRole1\obj\Debug\WebRole1.pdb
 F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\WebRole1\obj\Debug\WebRole1.Migrations.InitialCreate.resources
 F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\WebRole1\obj\Debug\WebRole1.csproj.GenerateResource.cache
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\WebRole1\bin\Westwind.Utilities.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\WebRole1\bin\Westwind.Utilities.xml

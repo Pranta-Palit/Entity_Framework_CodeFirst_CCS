@@ -19,7 +19,8 @@ namespace WebRole1.Models
 
         public static Student create()
         {
-            var model = new Student() {
+            var model = new Student()
+            {
                 FirstName = "Pranta",
                 LastName = "Palit",
                 EnrollmentDate = DateTime.Now,
