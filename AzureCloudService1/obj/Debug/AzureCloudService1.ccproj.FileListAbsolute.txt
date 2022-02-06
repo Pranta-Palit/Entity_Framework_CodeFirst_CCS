@@ -1,0 +1,296 @@
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\bin\Debug\ServiceConfiguration.cscfg
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\bin\Debug\ServiceDefinition.csdef
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\Antlr3.Runtime.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\Antlr3.Runtime.pdb
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\de\System.Spatial.resources.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\es\System.Spatial.resources.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\fr\System.Spatial.resources.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\it\System.Spatial.resources.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\ja\System.Net.Http.Formatting.resources.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\ja\System.Spatial.resources.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\ja\System.Web.Helpers.resources.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\ja\System.Web.Http.resources.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\ja\System.Web.Http.WebHost.resources.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\ja\System.Web.Mvc.resources.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\ja\System.Web.Optimization.resources.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\ja\System.Web.Razor.resources.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\ja\System.Web.WebPages.Deployment.resources.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\ja\System.Web.WebPages.Razor.resources.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\ja\System.Web.WebPages.resources.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\ko\System.Spatial.resources.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\Microsoft.Data.Edm.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\Microsoft.Data.Edm.xml
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\Microsoft.Data.OData.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\Microsoft.Data.OData.xml
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\Microsoft.Data.Services.Client.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\Microsoft.Data.Services.Client.xml
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\Microsoft.WindowsAzure.ServiceRuntime.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\MonAgentListener.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\Newtonsoft.Json.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\Newtonsoft.Json.xml
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\csc.exe
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\csc.exe.config
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\csc.rsp
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\csi.exe
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\csi.exe.config
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\csi.rsp
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\System.AppContext.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\System.Console.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\System.IO.Compression.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\System.Net.Http.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\System.Net.Sockets.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\System.ValueTuple.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\vbc.exe
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\vbc.exe.config
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\vbc.rsp
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\VBCSCompiler.exe
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\ru\System.Spatial.resources.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\System.Net.Http.Formatting.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\System.Net.Http.Formatting.xml
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\System.Spatial.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\System.Spatial.xml
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\System.Web.Helpers.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\System.Web.Helpers.xml
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\System.Web.Http.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\System.Web.Http.WebHost.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\System.Web.Http.WebHost.xml
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\System.Web.Http.xml
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\System.Web.Mvc.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\System.Web.Mvc.xml
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\System.Web.Optimization.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\System.Web.Optimization.xml
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\System.Web.Razor.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\System.Web.Razor.xml
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\System.Web.WebPages.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\System.Web.WebPages.Razor.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\System.Web.WebPages.Razor.xml
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\System.Web.WebPages.xml
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\WebGrease.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\WebRole1.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\WebRole1.dll.config
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\WebRole1.pdb
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\EntityFramework.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\EntityFramework.SqlServer.dll
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\EntityFramework.SqlServer.xml
+C:\Users\YoheiOda小田洋平\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\EntityFramework.xml
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\bin\Debug\ServiceConfiguration.cscfg
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\bin\Debug\ServiceDefinition.csdef
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\Antlr3.Runtime.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\Antlr3.Runtime.pdb
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\de\Microsoft.Data.Edm.resources.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\de\Microsoft.Data.OData.resources.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\de\Microsoft.Data.Services.Client.resources.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\de\System.Spatial.resources.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\EntityFramework.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\EntityFramework.SqlServer.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\EntityFramework.SqlServer.xml
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\EntityFramework.xml
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\es\Microsoft.Data.Edm.resources.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\es\Microsoft.Data.OData.resources.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\es\Microsoft.Data.Services.Client.resources.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\es\System.Spatial.resources.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\fr\Microsoft.Data.Edm.resources.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\fr\Microsoft.Data.OData.resources.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\fr\Microsoft.Data.Services.Client.resources.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\fr\System.Spatial.resources.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\it\Microsoft.Data.Edm.resources.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\it\Microsoft.Data.OData.resources.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\it\Microsoft.Data.Services.Client.resources.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\it\System.Spatial.resources.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\ja\Microsoft.Data.Edm.resources.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\ja\Microsoft.Data.OData.resources.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\ja\Microsoft.Data.Services.Client.resources.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\ja\System.Net.Http.Formatting.resources.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\ja\System.Spatial.resources.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\ja\System.Web.Helpers.resources.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\ja\System.Web.Http.resources.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\ja\System.Web.Http.WebHost.resources.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\ja\System.Web.Mvc.resources.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\ja\System.Web.Optimization.resources.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\ja\System.Web.Razor.resources.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\ja\System.Web.WebPages.Deployment.resources.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\ja\System.Web.WebPages.Razor.resources.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\ja\System.Web.WebPages.resources.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\ko\Microsoft.Data.Edm.resources.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\ko\Microsoft.Data.OData.resources.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\ko\Microsoft.Data.Services.Client.resources.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\ko\System.Spatial.resources.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\Microsoft.Azure.KeyVault.Core.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\Microsoft.Azure.KeyVault.Core.xml
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\Microsoft.Data.Edm.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\Microsoft.Data.Edm.xml
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\Microsoft.Data.OData.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\Microsoft.Data.OData.xml
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\Microsoft.Data.Services.Client.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\Microsoft.Data.Services.Client.xml
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\Microsoft.Web.Infrastructure.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\Microsoft.WindowsAzure.Diagnostics.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\Microsoft.WindowsAzure.ServiceRuntime.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\Microsoft.WindowsAzure.Storage.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\Microsoft.WindowsAzure.Storage.pdb
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\Microsoft.WindowsAzure.Storage.xml
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\MonAgentListener.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\Newtonsoft.Json.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\Newtonsoft.Json.xml
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\csc.exe
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\csc.exe.config
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\csc.rsp
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\csi.exe
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\csi.exe.config
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\csi.rsp
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\System.AppContext.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\System.Collections.Immutable.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\System.Console.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\System.Globalization.Calendars.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\System.IO.Compression.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\System.IO.FileSystem.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\System.Net.Http.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\System.Net.Sockets.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\System.Reflection.Metadata.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\System.ValueTuple.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\System.Xml.XPath.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\vbc.exe
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\vbc.exe.config
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\vbc.rsp
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\VBCSCompiler.exe
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\roslyn\VBCSCompiler.exe.config
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\ru\Microsoft.Data.Edm.resources.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\ru\Microsoft.Data.OData.resources.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\ru\Microsoft.Data.Services.Client.resources.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\ru\System.Spatial.resources.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\System.Net.Http.Formatting.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\System.Net.Http.Formatting.xml
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\System.Spatial.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\System.Spatial.xml
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\System.Web.Helpers.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\System.Web.Helpers.xml
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\System.Web.Http.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\System.Web.Http.WebHost.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\System.Web.Http.WebHost.xml
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\System.Web.Http.xml
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\System.Web.Mvc.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\System.Web.Mvc.xml
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\System.Web.Optimization.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\System.Web.Optimization.xml
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\System.Web.Razor.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\System.Web.Razor.xml
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\System.Web.WebPages.Deployment.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\System.Web.WebPages.Deployment.xml
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\System.Web.WebPages.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\System.Web.WebPages.Razor.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\System.Web.WebPages.Razor.xml
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\System.Web.WebPages.xml
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\WebGrease.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\WebRole1.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\WebRole1.dll.config
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\WebRole1.pdb
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\zh-Hans\System.Spatial.resources.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\obj\Debug\WebRole1\bin\zh-Hant\System.Spatial.resources.dll
