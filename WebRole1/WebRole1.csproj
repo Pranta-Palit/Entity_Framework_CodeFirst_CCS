@@ -194,13 +194,14 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\202202061426121_InitialCreate.cs" />
-    <Compile Include="Migrations\202202061426121_InitialCreate.designer.cs">
-      <DependentUpon>202202061426121_InitialCreate.cs</DependentUpon>
+    <Compile Include="Migrations\202202071557523_InitialCreate.cs" />
+    <Compile Include="Migrations\202202071557523_InitialCreate.Designer.cs">
+      <DependentUpon>202202071557523_InitialCreate.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\SchoolContext.cs" />
     <Compile Include="Models\Student.cs" />
+    <Compile Include="Programs\Insert.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Controllers\StudentsController.cs" />
     <Compile Include="WebRole.cs" />
@@ -263,7 +264,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Tasks\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
@@ -295,8 +295,8 @@
     <Content Include="Scripts\jquery-3.4.1.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\202202061426121_InitialCreate.resx">
-      <DependentUpon>202202061426121_InitialCreate.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202202071557523_InitialCreate.resx">
+      <DependentUpon>202202071557523_InitialCreate.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

@@ -1,4 +1,4 @@
-﻿namespace WebRole1.Migrations
+namespace WebRole1.Migrations
 {
     using System;
     using System.Data.Entity.Migrations;
@@ -11,14 +11,11 @@
                 "dbo.Student",
                 c => new
                     {
-                        ID = c.Int(nullable: false, identity: true),
-                        FirstName = c.String(),
-                        LastName = c.String(),
-                        EnrollmentDate = c.DateTime(nullable: false),
-                        Address = c.String(),
-                        Email = c.String(),
+                        UserId = c.String(nullable: false, maxLength: 128),
+                        UserName = c.String(),
+                        RankPoints = c.Int(nullable: false),
                     })
-                .PrimaryKey(t => t.ID);
+                .PrimaryKey(t => t.UserId);
             
         }
         

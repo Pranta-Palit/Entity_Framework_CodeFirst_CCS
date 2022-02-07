@@ -21,7 +21,7 @@ namespace WebRole1
         }
 
         // GET: Students/Details/5
-        public ActionResult Details(int? id)
+        public ActionResult Details(string id)
         {
             if (id == null)
             {
@@ -46,7 +46,7 @@ namespace WebRole1
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "ID,FirstName,LastName,EnrollmentDate,Address,Email")] Student student)
+        public ActionResult Create([Bind(Include = "UserId,UserName,RankPoints")] Student student)
         {
             if (ModelState.IsValid)
             {
@@ -59,7 +59,7 @@ namespace WebRole1
         }
 
         // GET: Students/Edit/5
-        public ActionResult Edit(int? id)
+        public ActionResult Edit(string id)
         {
             if (id == null)
             {
@@ -78,7 +78,7 @@ namespace WebRole1
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit([Bind(Include = "ID,FirstName,LastName,EnrollmentDate,Address,Email")] Student student)
+        public ActionResult Edit([Bind(Include = "UserId,UserName,RankPoints")] Student student)
         {
             if (ModelState.IsValid)
             {
@@ -90,7 +90,7 @@ namespace WebRole1
         }
 
         // GET: Students/Delete/5
-        public ActionResult Delete(int? id)
+        public ActionResult Delete(string id)
         {
             if (id == null)
             {
@@ -107,7 +107,7 @@ namespace WebRole1
         // POST: Students/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
-        public ActionResult DeleteConfirmed(int id)
+        public ActionResult DeleteConfirmed(string id)
         {
             Student student = db.Students.Find(id);
             db.Students.Remove(student);
