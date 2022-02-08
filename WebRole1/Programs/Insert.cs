@@ -8,8 +8,10 @@ namespace WebRole1.Programs
 {
     public class Insert
     {
-		public static List<Student> InsertData()
+		public static void InsertData()
 		{
+			var db = new SchoolContext();
+
 			// this function will generate and insert 100 users data
 			List<Student> playerList = new List<Student>();
 
@@ -26,7 +28,8 @@ namespace WebRole1.Programs
 					RankPoints = random.Next(0, 100)
 				});
 			}
-			return playerList;
+			db.Students.AddRange(playerList);
+			db.SaveChanges();
 		}
 	}
 }

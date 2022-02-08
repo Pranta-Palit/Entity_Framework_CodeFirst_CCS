@@ -8,9 +8,9 @@ namespace WebRole1.Controllers
 	{
 		public ActionResult Index()
 		{
-			var db = new SchoolContext();
-			db.Students.AddRange(Insert.InsertData());
-			db.SaveChanges();
+			//var db = new SchoolContext();
+			//db.Students.AddRange(Insert.InsertData());
+			//db.SaveChanges();
 
 			return View();
 		}

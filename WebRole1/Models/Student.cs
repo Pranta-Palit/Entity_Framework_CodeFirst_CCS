@@ -8,5 +8,10 @@ namespace WebRole1.Models
 		public string UserId { get; set; }
 		public string UserName { get; set; }
 		public int RankPoints { get; set; }
+
+		public override string ToString()
+		{
+			return "[" + UserId + " - " + UserName + " - " + RankPoints + "]";
+		}
 	}
 }

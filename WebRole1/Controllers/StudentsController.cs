@@ -18,9 +18,10 @@ namespace WebRole1
         // GET: Students
         public ActionResult Index()
         {
-            var db = new SchoolContext();
-            db.Students.AddRange(Insert.InsertData());
-            db.SaveChanges();
+            //Insert.InsertData();
+            //Update.SetRankPoints();
+            Sort.SortedData();
+
             return View(db.Students.ToList());
         }
 
