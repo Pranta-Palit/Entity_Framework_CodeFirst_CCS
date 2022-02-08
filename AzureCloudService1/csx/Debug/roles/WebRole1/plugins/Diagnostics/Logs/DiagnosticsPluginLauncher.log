@@ -1,17 +1,15 @@
-DiagnosticsPluginLauncher.exe Information: 0 : [2/7/2022 4:17:02 PM] Emulator config file set to F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
-DiagnosticsPluginLauncher.exe Information: 0 : [2/7/2022 4:17:02 PM] DiagnosticsStoreRootPath set to: C:\Users\ppali\AppData\Local\dftmp\Resources\9063423f-4381-42c0-a4d9-ab2f787e1bb7
-DiagnosticsPluginLauncher.exe Information: 0 : [2/7/2022 4:17:02 PM] Loading config file: F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
-DiagnosticsPluginLauncher.exe Information: 0 : [2/7/2022 4:17:02 PM] Config file to read: F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
-DiagnosticsPluginLauncher.exe Information: 0 : [2/7/2022 4:17:02 PM] Checking VM Type
-DiagnosticsPluginLauncher.exe Information: 0 : [2/7/2022 4:17:02 PM] Emulator config file set to F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
-DiagnosticsPluginLauncher.exe Information: 0 : [2/7/2022 4:17:02 PM] Extension set to Emulator Mode
-DiagnosticsPluginLauncher.exe Information: 0 : [2/7/2022 4:17:02 PM] Reading XML configuration file
-DiagnosticsPluginLauncher.exe Information: 0 : [2/7/2022 4:17:02 PM] Bypassing private config decryption
-DiagnosticsPluginLauncher.exe Information: 0 : [2/7/2022 4:17:02 PM] Stopping the running plugin, if any
-DiagnosticsPluginLauncher.exe Information: 0 : [2/7/2022 4:17:02 PM] No DiagnosticsPlugin is running.
-DiagnosticsPluginLauncher.exe Information: 0 : [2/7/2022 4:17:02 PM] Killing any DiagnosticsPlugin that might remain.
-DiagnosticsPluginLauncher.exe Information: 0 : [2/7/2022 4:17:02 PM] Killing any MonAgentHost that might remain.
-DiagnosticsPluginLauncher.exe Information: 0 : [2/7/2022 4:17:02 PM] Diagnostics plugin stopped successfully
-DiagnosticsPluginLauncher.exe Information: 0 : [2/7/2022 4:17:02 PM] Resetting DiagnosticPlugin
-DiagnosticsPluginLauncher.exe Information: 0 : [2/7/2022 4:18:13 PM] DiagnosticsPlugin launched successfully with new configuration
-DiagnosticsPluginLauncher.exe Information: 0 : [2/7/2022 4:18:13 PM] DiagnosticPlugin exited with code 0
+DiagnosticsPluginLauncher.exe Information: 0 : [2/8/2022 12:36:10 PM] Emulator config file set to F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2/8/2022 12:36:10 PM] DiagnosticsStoreRootPath set to: C:\Users\ppali\AppData\Local\dftmp\Resources\86c302a8-3f13-495a-98b9-35e28df050c7
+DiagnosticsPluginLauncher.exe Information: 0 : [2/8/2022 12:36:10 PM] Loading config file: F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2/8/2022 12:36:10 PM] Config file to read: F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2/8/2022 12:36:10 PM] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [2/8/2022 12:36:10 PM] Emulator config file set to F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\AzureCloudService1\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2/8/2022 12:36:10 PM] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [2/8/2022 12:36:10 PM] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [2/8/2022 12:36:10 PM] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [2/8/2022 12:36:10 PM] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [2/8/2022 12:36:10 PM] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [2/8/2022 12:36:10 PM] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [2/8/2022 12:36:10 PM] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [2/8/2022 12:36:10 PM] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [2/8/2022 12:36:10 PM] Resetting DiagnosticPlugin
