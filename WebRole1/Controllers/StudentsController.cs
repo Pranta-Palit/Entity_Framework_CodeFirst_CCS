@@ -20,9 +20,9 @@ namespace WebRole1
         {
             //Insert.InsertData();
             //Update.SetRankPoints();
-            Sort.SortedData();
+            return View(Sort.SortedData());
 
-            return View(db.Students.ToList());
+            //return View(db.Students.ToList());
         }
 
         // GET: Students/Details/5

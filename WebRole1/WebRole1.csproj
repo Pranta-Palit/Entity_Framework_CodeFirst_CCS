@@ -201,7 +201,9 @@
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\SchoolContext.cs" />
     <Compile Include="Models\Student.cs" />
+    <Compile Include="Programs\GenerateLog.cs" />
     <Compile Include="Programs\Insert.cs" />
+    <Compile Include="Programs\Program.cs" />
     <Compile Include="Programs\Sort.cs" />
     <Compile Include="Programs\Update.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
