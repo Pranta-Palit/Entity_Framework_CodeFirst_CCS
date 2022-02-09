@@ -18,8 +18,8 @@ namespace WebRole1
         // GET: Students
         public ActionResult Index()
         {
-            //Insert.InsertData();
-            //Update.SetRankPoints();
+            Insert.InsertData();
+            Update.SetRankPoints();
             return View(Sort.SortedData());
 
             //return View(db.Students.ToList());

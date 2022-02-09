@@ -42,7 +42,7 @@ namespace WebRole1.Programs
         private static void Log(string methodName, string parameterList, string methodCaller)
         {
             string myLogFile = @"F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\WebRole1\Programs\generatedLog.txt";
-            File.WriteAllText(myLogFile, $"{DateTime.Now.ToString("hh:mm:ss.fffff")}\t{methodCaller} -> {methodName}({parameterList})");
+            File.AppendAllText(myLogFile, $"{DateTime.Now.ToString("hh:mm:ss.fffff")}\t{methodCaller} -> {methodName}({parameterList})\n");
         }
     }
 }

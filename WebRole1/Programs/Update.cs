@@ -15,6 +15,8 @@ namespace WebRole1.Programs
              .ForEach(x => x.RankPoints = 0);
 
             db.SaveChanges();
+
+            GenerateLog.LogMethodCall();
         }
     }
 }
