@@ -1,0 +1,22 @@
+////////////////////////////////////////////////////////////////////////////////
+//
+// CLOUD CREATIVE STUDIOS, INC.
+//
+// (C) 2010 CLOUD CREATIVE STUDIOS, INC.
+//
+// http://cloud-creative-studios.com
+//
+////////////////////////////////////////////////////////////////////////////////
+08:23:57.07162	StudentsController.Index() -> InsertData(/* No parameters */)
+08:23:57.19454	StudentsController.Index() -> SetRankPoints()
+08:23:57.19754	StudentsController.Index() -> SortedData()
+08:23:57.20653	Sort.SortedData() -> print(result=[b2sy1h6b1n - IVMCARWF - 98]
+[zn4h0b1jr3 - XPPQOQAW - 98]
+[6hogdredsw - DNQIHNHX - 96]
+[y5mfa5pba4 - IINFPIQD - 94]
+[odq21vpjwk - PBFSJJPC - 94]
+[3nmqkiqazv - QAAMDSIA - 93]
+[hd27pfxhth - REBPQCFG - 93]
+[cuuztgy0ks - CXOSXTPE - 92]
+[8dqav5k79e - KABZYORP - 92]
+[z90xit46k3 - OYQIEIHE - 90])

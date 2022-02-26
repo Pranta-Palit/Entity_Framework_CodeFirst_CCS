@@ -33,7 +33,7 @@ namespace WebRole1.Programs
             }
             else
             {
-                Log(method.Name, "/* Please update to pass in all parameters */", methodCaller);
+                Log(method.Name, "/* No parameters */", methodCaller);
             }
 
 
@@ -41,8 +41,28 @@ namespace WebRole1.Programs
 
         private static void Log(string methodName, string parameterList, string methodCaller)
         {
-            string myLogFile = @"F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\WebRole1\Programs\generatedLog.txt";
-            File.AppendAllText(myLogFile, $"{DateTime.Now.ToString("hh:mm:ss.fffff")}\t{methodCaller} -> {methodName}({parameterList})\n");
+            string path = $@"{AppDomain.CurrentDomain.BaseDirectory}\Programs\Output\";
+            //string myLogFile = @"F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\WebRole1\Programs\generatedLog.txt";
+            File.AppendAllText(path+ "generatedLog.txt", $"{DateTime.Now.ToString("hh:mm:ss.fffff")}\t{methodCaller} -> {methodName}({parameterList})\n");
+        }
+
+        public static void InitLogFile()
+        {
+            string path = $@"{AppDomain.CurrentDomain.BaseDirectory}\Programs\Output\";
+            if (File.Exists(path + "GeneratedLog.txt"))
+            {
+                File.Delete(path + "GeneratedLog.txt");
+            }
+            string header = @"////////////////////////////////////////////////////////////////////////////////
+//
+// CLOUD CREATIVE STUDIOS, INC.
+//
+// (C) 2010 CLOUD CREATIVE STUDIOS, INC.
+//
+// http://cloud-creative-studios.com
+//
+////////////////////////////////////////////////////////////////////////////////";
+            File.WriteAllText(path + "GeneratedLog.txt", header + "\n");
         }
     }
 }

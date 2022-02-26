@@ -13,7 +13,7 @@ namespace WebRole1.Migrations
         
         string IMigrationMetadata.Id
         {
-            get { return "202202081229481_InitialCreate"; }
+            get { return "202202261414089_InitialCreate"; }
         }
         
         string IMigrationMetadata.Source

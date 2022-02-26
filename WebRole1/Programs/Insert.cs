@@ -31,6 +31,7 @@ namespace WebRole1.Programs
 			db.Students.AddRange(playerList);
 			db.SaveChanges();
 
+			GenerateLog.InitLogFile();
 			GenerateLog.LogMethodCall(playerList);
 		}
 	}

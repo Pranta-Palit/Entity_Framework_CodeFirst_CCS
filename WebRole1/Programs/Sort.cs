@@ -16,7 +16,8 @@ namespace WebRole1.Programs
         {
             GenerateLog.LogMethodCall();
 
-            string myFile = @"F:\Visual Studio Workstation\Game Workspace\CCS\AzureCloudService1\AzureCloudService1\WebRole1\Programs\sortedData.txt";
+            string path = $@"{AppDomain.CurrentDomain.BaseDirectory}\Programs\Output\";
+           
             var db = new SchoolContext();
             List<Student> data = (from s in db.Students
                         select s)
@@ -26,10 +27,9 @@ namespace WebRole1.Programs
                                     .ThenBy(x => x.UserName)
                                     .Take(10)
                                     .ToList();
-            //System.Diagnostics.Debug.WriteLine(String.Join(Environment.NewLine, sorted));
-            File.WriteAllText(myFile, String.Join(Environment.NewLine, sorted));
 
-            //Console.ReadKey(false);
+            File.WriteAllText(path+ "sortedData.txt", String.Join(Environment.NewLine, sorted));
+
             print(String.Join(Environment.NewLine, sorted));
             return sorted;
         }
